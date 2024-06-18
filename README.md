@@ -8,7 +8,7 @@ Make sure you have Node.js and npm installed.
 
 ## Clone Project
 
-git clone https://github.com/devtantod9688/JavaScript-Technical-Task.git
+git clone https://github.com/devtantod9688/Javascript.git
 cd your_project
 
 ## Install dependencies
